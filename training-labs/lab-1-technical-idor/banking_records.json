@@ -1,0 +1,5 @@
+[
+  {"statement_id": 1001, "account_id": 101, "customer": "Alice Smith", "type": "Checking", "balance": 154200.50, "last_tx": "Client Retainer (+$15,000.00)"},
+  {"statement_id": 1002, "account_id": 102, "customer": "Bob Johnson", "type": "Treasury", "balance": 2890400.00, "last_tx": "Cloud Vendor (-$42,500.00)"},
+  {"statement_id": 1003, "account_id": 104, "customer": "David Sterling (CFO)", "type": "Corporate Settlement", "balance": 12450000.00, "last_tx": "Interbank Wire (-$500,000.00)"}
+]

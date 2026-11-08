@@ -1,0 +1,13 @@
+Message_ID,Sender_Display,Sender_Email,Subject,Body_Summary,Classification
+MSG-01,David Sterling,david.sterling@bank-secure-corp.com,URGENT: Acquisition Settlement Wire,"Boarding flight, cannot take calls. Process attached $480k invoice to our new partner today. Do not copy others.",IMMEDIATE ESCALATION (BEC)
+MSG-02,IT Service Desk,servicedesk@internal-portal.bank,Scheduled Maintenance: Core Banking Patch,Routine Sunday maintenance window 02:00-04:00 UTC. No password resets or employee action required.,SAFE
+MSG-03,Global Cloud Solutions,billing@global-c1oud.com,Updated Banking Details for Invoice #8841,"We have switched clearing institutions. Effective immediately, route all future ACH wires to Account #9921.",IMMEDIATE ESCALATION (Vendor BEC)
+MSG-04,HR Benefits,benefits-update@external-survey.org,Mandatory Employee Pension Review,Click here to confirm your national tax ID and bank routing details within 24 hours to prevent salary freeze.,SUSPICIOUS (Credential Phish)
+MSG-05,Sarah Jenkins,sjenkins@bank.internal,Lunch Meeting Reschedule,Can we push our Q3 compliance sync to 2:30 PM today? Conference room B is booked.,SAFE
+MSG-06,Microsoft Security,no-reply@security-alerts.bank.internal,Unusual Sign-in Activity Detected,"Sign-in from Sofia, Bulgaria. If this was not you, tap 'Report Suspicious Activity' inside your Authenticator.",SAFE (Legitimate Alert)
+MSG-07,Alex Mercer,alex.mercer@consulting-partners.com,Re: Audit Workpapers Follow-up,"Thread-hijack reply: Following up on yesterday's call, please see the amended retainer breakdown attached (.zip).",SUSPICIOUS (Thread Hijacking)
+MSG-08,First National Clearing,wire-alerts@firstnatclearing.com,Inbound Wire Confirmation #TX-90142,"Incoming credit of $1,250,000.00 confirmed for Client ACCT-665201. Standard value date applies.",SAFE
+MSG-09,Executive Office,ceo-private@secure-proton-relay.com,Highly Confidential Project Titan,Need an immediate off-cycle wire for strategic retainer. Call my mobile for the code. Do not log in ERP yet.,IMMEDIATE ESCALATION (Executive Fraud)
+MSG-10,Treasury Ops,treasury-internal@bank.internal,Daily Liquidity Position Report,"Attached daily FX balance sheet for October 31, 2026. Signed by settlement manager.",SAFE
+MSG-11,SMS Alert,-3404,IT Alert: MFA Device Expiring,Your corporate token expires in 1 hour. Tap http://bank-sso-verify.mobi to refresh your certificate.,SUSPICIOUS (Smishing)
+MSG-12,Vendor AP Desk,invoices@staples-office-supplies.com,Monthly Paper & Supply Invoice,"Invoice for routine office stationery ($342.18). Net 30 terms, existing banking details on file unchanged.",SAFE

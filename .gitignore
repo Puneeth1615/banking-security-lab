@@ -1,0 +1,12 @@
+# Internship project - First Quadrant Labs
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+*.sqlite3
+.venv/
+venv/
+ENV/
+.env
+.vscode/
+.idea/
